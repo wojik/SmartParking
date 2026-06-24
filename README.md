@@ -2,6 +2,9 @@
 
 System sterowania inteligentnym parkingiem opartym na Raspberry Pi 4. W projekcie wykorzystano technologię rozpoznawania tablic rejestracyjnych przy użyciu OpenCV i pytesseract, obsługę kart RFID (czytnik MFRC522), wyświetlacz LCD oraz czujniki parkowania podłączone do GPIO. Dodatkowo system steruje serwomechanizmami, które otwierają lub zamykają szlabany wjazdowe i wyjazdowe.
 
+![Widok projektu z perspektywy wjazdu na parking](images/smart_parking1.png)
+![Widok projektu z lotu ptaka](images/smart_parking2.jpg)
+
 ## Wymagania
 
 - **Sprzęt:**
