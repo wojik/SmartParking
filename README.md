@@ -50,6 +50,10 @@ System sterowania inteligentnym parkingiem opartym na Raspberry Pi 4. W projekci
    sudo pigpiod
    ```
 
+## Schemat Połączeń
+
+![Schemat połączeń elementów układu](SchematPołączeń.png)
+
 ## Konfiguracja Sprzętu
 
 - **Serwomechanizmy:**  
